@@ -1,2 +1,2 @@
 # go-docker
-Docker container created using gaoling
+Docker container created using go
